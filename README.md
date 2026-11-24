@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm Alexey Potemkin
 
-<!--
-**LittleIronclad/LittleIronclad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bioinformatics MSc student at the University of Tübingen** with a wet-lab background in molecular oncology.
+I work where cell biology meets machine learning: I grow and characterise cancer cell lines at the bench, then build models to make sense of the data.
 
-Here are some ideas to get you started:
+- 🧫 **Wet lab:** developed cisplatin- and gemcitabine-resistant bladder cancer cell lines (5637, RT112, T24) and characterised them with MTT, clonogenic and scratch assays, morphometry and RT-qPCR
+- 🧠 **Dry lab:** machine learning for biomedicine. My BSc thesis applied ML models to recognising and staging the epithelial–mesenchymal transition (EMT)
+- 👨‍🏫 **Teaching:** Visiting Lecturer at HSE University, where I teach hands-on programming classes for the *Neural Network Theory* and *Neurocomputers* courses
+- 🏆 1st place, HSE Student Research Paper Competition (natural sciences, 2025) · winner of the "I Am a Professional" Olympiad in Bioengineering & Bioinformatics (2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Featured project
+| Project | What it shows |
+|---|---|
+| [covid-xray-classification](https://github.com/LittleIronclad/covid-xray-classification) | Chest X-ray classification: k-NN vs. a custom CNN built from scratch vs. fine-tuned ResNet-50, with leakage-free evaluation, TTA and Grad-CAM |
+
+#### Toolbox
+`Python` · `PyTorch` · `scikit-learn` · `pandas` · `NumPy` · `matplotlib/seaborn` · `Biopython` · `ImageJ`
+<br>Cell culture · RT-qPCR · cloning (TA, Golden Gate) · transfection/transduction
+
+#### Languages
+Russian (native) · English (IELTS 7.5) · Spanish (DELE C1) · German (learning)
+
+📫 [LinkedIn](https://www.linkedin.com/in/alexey-potemkin-567bb3364/) · alex.n.potemkin@gmail.com
