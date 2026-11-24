@@ -3,10 +3,10 @@
 **Bioinformatics MSc student at the University of Tübingen** with a wet-lab background in molecular oncology.
 I work where cell biology meets machine learning: I grow and characterise cancer cell lines at the bench, then build models to make sense of the data.
 
-- 🧫 **Wet lab:** developed cisplatin- and gemcitabine-resistant bladder cancer cell lines (5637, RT112, T24) and characterised them with MTT, clonogenic and scratch assays, morphometry and RT-qPCR
-- 🧠 **Dry lab:** machine learning for biomedicine. My BSc thesis applied ML models to recognising and staging the epithelial–mesenchymal transition (EMT)
-- 👨‍🏫 **Teaching:** Visiting Lecturer at HSE University, where I teach hands-on programming classes for the *Neural Network Theory* and *Neurocomputers* courses
-- 🏆 1st place, HSE Student Research Paper Competition (natural sciences, 2025) · winner of the "I Am a Professional" Olympiad in Bioengineering & Bioinformatics (2026)
+- **Wet lab:** developed cisplatin- and gemcitabine-resistant bladder cancer cell lines (5637, RT112, T24) and characterised them with MTT, clonogenic and scratch assays, morphometry and RT-qPCR
+- **Dry lab:** machine learning for biomedicine. My BSc thesis applied ML models to recognising and staging the epithelial–mesenchymal transition (EMT)
+- **Teaching:** Visiting Lecturer at HSE University, where I teach hands-on programming classes for the *Neural Network Theory* and *Neurocomputers* courses
+- 1st place, HSE Student Research Paper Competition (natural sciences, 2025) · winner of the "I Am a Professional" Olympiad in Bioengineering & Bioinformatics (2026)
 
 #### Featured project
 | Project | What it shows |
