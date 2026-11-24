@@ -8,13 +8,14 @@ I work where cell biology meets machine learning: I grow and characterise cancer
 - **Teaching:** Visiting Lecturer at HSE University, where I teach hands-on programming classes for the *Neural Network Theory* and *Neurocomputers* courses
 - 1st place, HSE Student Research Paper Competition (natural sciences, 2025) · winner of the "I Am a Professional" Olympiad in Bioengineering & Bioinformatics (2026)
 
-#### Featured project
+#### Featured projects
 | Project | What it shows |
 |---|---|
+| [bladder-cancer-emt-states](https://github.com/LittleIronclad/bladder-cancer-emt-states) | Hybrid EMT states and survival in bladder cancer: NMF + consensus clustering, LASSO Cox with nested CV, external validation in 4 GEO cohorts, GSEA, GDSC drug response |
 | [covid-xray-classification](https://github.com/LittleIronclad/covid-xray-classification) | Chest X-ray classification: k-NN vs. a custom CNN built from scratch vs. fine-tuned ResNet-50, with leakage-free evaluation, TTA and Grad-CAM |
 
 #### Toolbox
-`Python` · `PyTorch` · `scikit-learn` · `pandas` · `NumPy` · `matplotlib/seaborn` · `Biopython` · `ImageJ`
+`Python` · `PyTorch` · `scikit-learn` · `scikit-survival` · `lifelines` · `pandas` · `NumPy` · `matplotlib/seaborn` · `Biopython` · `ImageJ`
 <br>Cell culture · RT-qPCR · cloning (TA, Golden Gate) · transfection/transduction
 
 #### Languages
