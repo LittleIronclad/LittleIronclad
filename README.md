@@ -21,4 +21,4 @@ I work where cell biology meets machine learning: I grow and characterise cancer
 #### Languages
 Russian (native) · English (IELTS 7.5) · Spanish (DELE C1) · German (learning)
 
-📫 [LinkedIn](https://www.linkedin.com/in/alexey-potemkin-567bb3364/) · alex.n.potemkin@gmail.com
+[LinkedIn](https://www.linkedin.com/in/alexey-potemkin-567bb3364/) · alex.n.potemkin@gmail.com
