@@ -13,9 +13,10 @@ I work where cell biology meets machine learning: I grow and characterise cancer
 |---|---|
 | [bladder-cancer-emt-states](https://github.com/LittleIronclad/bladder-cancer-emt-states) | Hybrid EMT states and survival in bladder cancer: NMF + consensus clustering, LASSO Cox with nested CV, external validation in 4 GEO cohorts, GSEA, GDSC drug response |
 | [covid-xray-classification](https://github.com/LittleIronclad/covid-xray-classification) | Chest X-ray classification: k-NN vs. a custom CNN built from scratch vs. fine-tuned ResNet-50, with leakage-free evaluation, TTA and Grad-CAM |
+| [wound-healing-batch](https://github.com/LittleIronclad/wound-healing-batch) | ImageJ/Fiji batch tools for scratch (wound-healing) assays: whole folder trees → CSV tables, QC overlays and wound-closure kinetics; built on Wound_healing_size_tool (Suarez-Arnedo et al., 2020) |
 
 #### Toolbox
-`Python` · `PyTorch` · `scikit-learn` · `scikit-survival` · `lifelines` · `pandas` · `NumPy` · `matplotlib/seaborn` · `Biopython` · `ImageJ`
+`Python` · `PyTorch` · `scikit-learn` · `scikit-survival` · `lifelines` · `pandas` · `NumPy` · `matplotlib/seaborn` · `Biopython` · `ImageJ / Fiji macros`
 <br>Cell culture · RT-qPCR · cloning (TA, Golden Gate) · transfection/transduction
 
 #### Languages
